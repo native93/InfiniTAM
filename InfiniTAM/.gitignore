@@ -1,0 +1,13 @@
+*.kdev4
+*.opensdf
+*.pdb
+*.sdf
+*.suo
+*.swp
+x64/
+/InfiniTAM/build/
+/InfiniTAM/buildx/
+/InfiniTAM/install/
+/InfiniTAM/Files/Out/out.ppm
+/InfiniTAM/Files/Out/*.ppm
+/InfiniTAM/Files/Teddy/Frames
